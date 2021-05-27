@@ -1,5 +1,6 @@
 import random
 
+#
 print("WELCOME TO UQ PARKING SIMULATOR")
 print("You wake up on a Monday morning and roll over to check the time on your clock.")
 print("7:45 a.m.")
